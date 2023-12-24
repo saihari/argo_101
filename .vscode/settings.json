@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "kubernetes": "*.yaml",
+    },
+    "yaml.format.bracketSpacing": false
+}
